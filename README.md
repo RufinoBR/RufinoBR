@@ -1,7 +1,12 @@
 ##### Criei este perfil apenas pra organizar todos os scripts.
 
-- 👋 Hi, I’m @RufinoBR
-- 👀 I’m interested in WIndows scripts.
+</br>
+
+
+
+👋 Hi, I’m @RufinoBR
+
+👀 I’m interested in WIndows scripts.
 
 
 <!---
