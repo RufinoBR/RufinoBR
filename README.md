@@ -1,5 +1,8 @@
+##### Criei este perfil apenas pra organizar todos os scripts.
+
 - 👋 Hi, I’m @RufinoBR
 - 👀 I’m interested in WIndows scripts.
+
 
 <!---
 RufinoBR/RufinoBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
