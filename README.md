@@ -6,7 +6,7 @@
 
 👋 Hi, I’m @RufinoBR
 
-👀 I’m interested in WIndows scripts.
+👀 I’m interested in Windows scripts.
 
 
 <!---
